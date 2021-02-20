@@ -8,7 +8,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "00x3db0a30eF1EAA08498e705040864954AAACD0434",
+      "address": "0x3db0a30eF1EAA08498e705040864954AAACD0434",
       "name": "TempCoin",
       "symbol": "TMPC",
       "decimals": 0,
