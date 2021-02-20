@@ -6,7 +6,8 @@
   ],
   "timestamp": "2021-02-10T16:00:00.809+00:00",
   "tokens": [
-    {
+/*
+	{
       "chainId": 1,
       "address": "0xCdeC1459265a5dce14A816D30632f493C65B56b0",
       "name": "TestCoin",
@@ -22,17 +23,18 @@
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/robbyishere/SacHacksCrypto/main/godotsm.png"
     },
+	*/
 {
       "chainId": 1,
       "address": "0x4023501dD802EA2ca05e25a5bE6E07a95A89693a",
       "name": "PizzaCoin",
       "symbol": "PZZA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/robbyishere/SacHacksCrypto/main/godotsm.png"
+      "logoURI": "https://raw.githubusercontent.com/robbyishere/SacHacksCrypto/main/pizza.png"
     }
   ],
   "version": {
-    "major": 0,
+    "major": 1,
     "minor": 0,
     "patch": 0
   }
