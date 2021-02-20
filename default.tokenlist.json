@@ -14,13 +14,13 @@
       "decimals": 0,
       "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png?1574218774"
     },
-	 {
+	{
       "chainId": 1,
       "address": "0x8901FDe733d230550F0c9828ac3633a06ECE74F9",
       "name": "RiverCoin",
       "symbol": "RVR",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/robbyishere/SacHacksCrypto/main/godot.jpg"
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png?1574218774"
     }
   ],
   "version": {
