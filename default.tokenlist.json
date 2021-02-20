@@ -8,10 +8,10 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xadaD2664194B192761CcAAfef32270fD9028Ff5f",
-      "name": "TempCoin",
-      "symbol": "TMPC",
-      "decimals": 0,
+      "address": "0xAAAC8E46df29052d1E7f35B68e38a2A2D8950dEe",
+      "name": "TestCoin",
+      "symbol": "TSTC",
+      "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/dai-multi-collateral-mcd.png?1574218774"
     },
 {
